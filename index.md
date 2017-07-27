@@ -1,4 +1,9 @@
-<head><title>My Site</title></head>
+<html>
+<head>
+    <title>My Site</title>
+</head>
+</html>
+
 
 # The home of jcschoen
 
