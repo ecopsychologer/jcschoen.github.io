@@ -1,10 +1,3 @@
-<html>
-<head>
-    <title>My Site</title>
-</head>
-</html>
-
-
 # The home of jcschoen
 
 My current project is [a python neural network](https://jcschoen.github.io/neural-network/).
