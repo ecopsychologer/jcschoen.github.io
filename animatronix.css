@@ -1,3 +1,21 @@
 body {
-  background-color: very-dark-gray;
+  background-color: #546E7A;
+  font-family: sans-serif;
+}
+h1 {
+  font-family: monospace;
+  font-size: 16;
+  font-weight: bold;
+  color: #B3E5FC;
+}
+p {
+  font-family: sans-serif;
+  color: #CFD8DC;
+}
+button {
+  color: #78909C;
+  font-family: sans-serif;
+}
+.center {
+  text-align: center;
 }
