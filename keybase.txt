@@ -1,0 +1,75 @@
+==================================================================
+https://keybase.io/jcschoen
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://jcschoen.github.io
+  * I am jcschoen (https://keybase.io/jcschoen) on keybase.
+  * I have a public key with fingerprint 8BFD 5354 ED6F 13EF 1EF9  7E10 454C 9921 F481 93F5
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120121afdb6f92b06128c02d8524d1d5e64b6bf87cf54163b481fad887152352b8b0a",
+      "fingerprint": "8bfd5354ed6f13ef1ef97e10454c9921f48193f5",
+      "host": "keybase.io",
+      "key_id": "454c9921f48193f5",
+      "kid": "01014a9db55be5ae0ae5e99dbbe96794893a0ba5089c13f27dc541ed0bc534480fa70a",
+      "uid": "c9b4e81c816e860dbae5ca41e8ac6319",
+      "username": "jcschoen"
+    },
+    "service": {
+      "hostname": "jcschoen.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1503950614,
+  "expire_in": 157680000,
+  "prev": "da0f200e770efa062b042f3ad4a58142d3a6ce387dc9b5e0345854a01fd4545f",
+  "seqno": 26,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.73
+Comment: https://keybase.io/crypto
+
+yMNyAnicbVJtUFRVGF4+i3WYJFAncygvOA6x0P3+QMkYRBgnnMCPBgO2c+89d/cu
+uLvt3V0EB5AxlFFAEQyRCUoQjGEaR6SwTFmtIYpCpp2SpLFigr4AtVYFCjpL+afp
+zJk5877neZ7zvO97PgoP0ukD0l5oWvtHRb0v4DNPi0uX0160ch8m2uRiLGkfVgCX
+DlgoQ81pLFBlLAnDCRJtAiiyyCoCKeIsQfISTso8Q9IyITOQpUVWVHhOUhiaYCmR
+5gkFyDzPEQxJMaTIizjADJiiWk3QYXeoVieS5UVFZiiGhjKrEBRUCKgIHCRwmqEl
+QSAJBakIlMIgotmm+RnInAg0mKjaUA4FxiV7/4N/6BsnaCDIIsOIkAEQB5CBAopF
+KLCcQPMCBXARMDgvSASlkJwsIftQxkWJoWiaxxXALfl2LclJgkhDnpB4goU8i8si
+kpMAIvBAYilC8AM16LCCPRChLZImmW3QipUaMJR1qxL0N9ZfyX8QiSbVaXaJ/1Rl
+d9icNslWiO7NTqddS/LzncV2P6EIisZ/pYyiapVRNxHDDR2aarNiSQRCSk7Vr00w
+OCUwaE60AYN77aoDGlU/guFYHkfL/w50I0kZ4AqJ45DjcKgAnEXDpUmFAjINGJ6g
+SZkCrAQpHrVGEBmIUzTDMzTACUVGbWcUzF/cq1YblkSyyCcwIU1NNVmB0+WAWOlV
+T26wLkCvCw0J9H8znT5s+cPPF6V/7K8n3MUNWZ8keGO7xr75dX4Ev3SNDIk+N1T9
+TlmwuiUm+UJEnb194+EjY127z8zvnzH8+f3ibGbqCv1EpKkkr3FTS747Pue3gcKO
+z0cbOqbH5zJ+Tmztfm0+r7JydCKiP76V3kWGr9kIweJgVdOGlbe56vxbE51PeRKM
+lR8v9G/hZ59JTh55ctvcsZKLw1lztzq1KnJTYsvUwR/jwnwLw+63UszVu52vNKU8
+m9clLIv0trlPlCTob2d7RyxT3Q3NYSGeNfbQ4bTmtjzDNu/L7rI7N9blPli1rv7k
+7Hf95+foHtySWSdrFavXFl3ZHPPD5uopqfyRmk8TTz9IOZt1JDjz+tTNCuuG8vjp
+TvfMgaDFI7rcPjrWfD66ZrJpz4qhHfdSfbHHou6Fn4rYTkZtbTNI4bWNtZ6c2btj
+B/ql57m8N9/rr7LtvPrcrONM+s6ZZY3fBvbY9sfdXX0hP2a+9NHTA3RGzfQvH6xP
+6dU6Qgu+uN/R+9V1srzt/ZnHLZGnBluzD94YLboYMsQGeec/dHdPDjqJVs5ncjVn
+vJ4OHa6TL/pW9e6Sww5tDawz3Nn+NDt+uccbub4ouud4xdmf2jOAPv2NIXb4KOjz
+1cQv3CyriujZe3Sct1DjJ5bv+PJtT9/XkzNN714yeafqriUHZV/hctIs5+4PxF0+
+lDY2Ep9a/7v9pcOOcrpW9zfxgMn4
+=kfEK
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/jcschoen
+
+==================================================================
