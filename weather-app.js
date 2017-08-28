@@ -1,7 +1,7 @@
 function weather() {
 
   var location = document.getElementById("location");
-  var apiKey = prompt("Please enter your API key", "API Key Here");
+  var apiKey = document.getElementById("api");
   var url = 'https://api.forecast.io/forecast/';
 
   navigator.geolocation.getCurrentPosition(success, error);
@@ -24,5 +24,3 @@ function weather() {
 
   location.innerHTML = "Locating...";
 }
-
-weather();
