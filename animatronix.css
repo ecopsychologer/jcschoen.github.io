@@ -1,17 +1,21 @@
 html {
-  font-family:: 'Roboto';
+  font-family: 'Roboto';
+  color: #547980;
 }
 
 body {
-  /*background-color: #546E7A;*/
-  background-color: #0f222b;
+  /*background-color: #594F4F;*/
+  /*background-color: #0F222B;*/
+  background-image: url("background.png");
+  background-size: cover;
 }
 
-h1 {
-  font-size: 16;
+.header {
+  font-size: 20;
   font-weight: bold;
   /*color: #B3E5FC;*/
-  color: #69ca62;
+  color: #45ADA8;
+  text-align: center;
 }
 
 p {
@@ -19,13 +23,17 @@ p {
 }
 
 button {
-  background-color: #78909C;
+  background-color: #547980;
 }
 
 input {
-  background-color: #78909C;
+  background-color: #547980;
 }
-
-.center {
-  text-align: center;
-}
+/*
+Colors:
+#E5FCC2
+#9DE0AD
+#45ADA8
+#547980
+#594F4F
+*/
