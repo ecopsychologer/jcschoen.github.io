@@ -8,7 +8,7 @@ body {
   /*background-color: #0F222B;*/
   background-image: url("background.png");
   width: 100%;
-  position: absolute;
+  position: relative;
   top: 0;
   left: 0;
 }
