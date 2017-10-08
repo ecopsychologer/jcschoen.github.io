@@ -1,8 +1,11 @@
 function setAPI() {
   var api = document.api.value;
+  console.log(api);
   var today = new Date();
   var expDate = new Date(today.getTime() + 30 * 24 * 3600 * 1000);
-  document.cookie = "secretKey="+api+"; expires="+expDate.toGMTString();+"; path=/";
+  var apiCookie = "secretKey="+api+"; expires="+expDate.toGMTString();+"; path=/";
+  console.log(apiCookie);
+  document.cookie = apiCookie;
 }
 function weather() {
 
