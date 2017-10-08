@@ -7,7 +7,7 @@ body {
   /*background-color: #594F4F;*/
   /*background-color: #0F222B;*/
   background-image: url("background.png");
-  background-size: cover;
+  background-size: auto;
 }
 
 .header {

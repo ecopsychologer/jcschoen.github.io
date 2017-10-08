@@ -1,9 +1,13 @@
+function setAPI() {
+  var api = document.api.value;
+  var today = new Date();
+  var expDate = new Date(today.getTime() + 30 * 24 * 3600 * 1000);
+  document.cookie = "secretKey="+api+"; expires="+expDate.toGMTString();+"; path=/";
+}
 function weather() {
 
   var location = document.getElementById("location");
-  //var apiKey = document.getElementById("api").value;
-  //console.log(api);
-  var apiKey = 'b217e4d03f02f1288c1fbb45eec743ac';
+  var apiKey = document.cookie;
   var url = 'https://api.forecast.io/forecast/';
 
   navigator.geolocation.getCurrentPosition(success, error);

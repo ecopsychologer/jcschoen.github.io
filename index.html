@@ -53,8 +53,7 @@ _idl.variant = "modal";
    <a href="https://internetdefenseleague.org"><img src="https://internetdefenseleague.org/images/badges/final/shield_badge.png" alt="Member of The Internet Defense League"/></a>
   </body>
   <script src="weather-app.js"></script>
-  <form>
-    <input type="text" value="Enter Your API Key" name='api'>
-    <input type="button" value="Go!" id="submit" onClick="weather()" onclick="putCookie(document.getElementsByTagName('form'));">
-  <form>
+  <input type="text" id="api">
+  <input type="submit" value="Set API Key" onClick="setAPI()">
+  <button onclick="weather()"> Get Weather </button>
 </html>
