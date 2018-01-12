@@ -1,5 +1,5 @@
-function setAPI() {
-  var api = document.api.value;
+function setAPI(apikey) {
+  var api = apikey;
   console.log(api);
   var today = new Date();
   var expDate = new Date(today.getTime() + 30 * 24 * 3600 * 1000);
