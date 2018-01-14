@@ -13,7 +13,7 @@ function weather() {
   var location = document.getElementById("location");
   var apiKey = document.cookie;
   var tempApi = apiKey;
-  var tempApi = apiKey.substring(apiKey.indexOf("="),(apiKey.length-1));
+  var tempApi = apiKey.substring((apiKey.indexOf("=")+1),apiKey.length);
   var apiKey = tempApi;
   console.log(apiKey + ", " + tempApi);
   var url = 'https://api.forecast.io/forecast/';
