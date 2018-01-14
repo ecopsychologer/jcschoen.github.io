@@ -12,6 +12,10 @@ function weather() {
 
   var location = document.getElementById("location");
   var apiKey = document.cookie;
+  var tempApi = apiKey;
+  var tempApi = apiKey.substring(apiKey.indexOf("="),(apiKey.length-1));
+  var apiKey = tempApi;
+  console.log(apiKey + ", " + tempApi);
   var url = 'https://api.forecast.io/forecast/';
 
   navigator.geolocation.getCurrentPosition(success, error);
